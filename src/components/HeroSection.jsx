@@ -47,7 +47,7 @@ export const HeroSection = () => {
 
           {/* Subtitle/Bio */}
           <motion.p variants={itemVariants} className="text-lg md:text-xl text-slate-300/90 max-w-2xl mx-auto leading-relaxed">
-            I create stellar web experiences with modern technologies. I am a full-stack developer, I build responsive and dynamic web applications that captivate users and drive results.
+           Crafting intelligent, high-performance web experiences. I am a full-stack developer who merges robust web development skills with Machine Learning and a strong foundation in DSA to build responsive applications that captivate users.
           </motion.p>
 
           {/* CTA Button */}
