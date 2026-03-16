@@ -55,18 +55,18 @@ export const AboutSection = () => {
           >
             <div className="space-y-4">
               <h3 className="text-2xl md:text-3xl font-semibold text-slate-900 dark:text-white leading-snug transition-colors">
-                Passionate Web Developer <br/> & Tech Creator
+                Passionate Web Developer <br/> & Problem Solver
               </h3>
               
               <div className="w-16 h-1 bg-gradient-to-r from-purple-500 to-blue-500 rounded-full mb-6"></div>
 
               <p className="text-slate-600 dark:text-slate-300/90 leading-relaxed text-lg transition-colors">
-                With over 1 year of experience in web development, I specialize in creating responsive, accessible, and performant web applications using modern technologies.
+                With experience of building full-stack web applications, I specialize in turning complex problems into elegant, responsive solutions. I combine modern web technologies, Machine Learning integrations, and highly optimized DSA logic to build accessible platforms that perform at scale
               </p>
 
-              <p className="text-slate-600 dark:text-slate-300/90 leading-relaxed text-lg transition-colors">
+              {/* <p className="text-slate-600 dark:text-slate-300/90 leading-relaxed text-lg transition-colors">
                 I'm passionate about creating elegant solutions to complex problems, and I'm constantly learning new technologies and techniques to stay at the forefront of the ever-evolving web landscape.
-              </p>
+              </p> */}
             </div>
 
             <div className="flex flex-wrap gap-4 pt-2">
