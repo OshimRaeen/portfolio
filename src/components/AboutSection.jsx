@@ -81,7 +81,7 @@ export const AboutSection = () => {
                 href="#"
                 className="inline-flex items-center gap-2 px-8 py-3 rounded-full bg-white/50 dark:bg-white/5 border border-slate-200 dark:border-purple-500/30 text-slate-700 dark:text-slate-200 hover:bg-slate-50 dark:hover:bg-purple-500/10 hover:border-purple-400 dark:hover:border-purple-500/80 hover:-translate-y-1 transition-all duration-300"
               >
-                <Download size={18} /> Download CV
+                <Download size={18} /> Download Resume
               </a>
             </div>
           </motion.div>
