@@ -72,7 +72,7 @@ export const AboutSection = () => {
             <div className="flex flex-wrap gap-4 pt-2">
               <a 
                 href="#contact" 
-                className="inline-flex items-center gap-2 px-8 py-3 rounded-full bg-linear-to-r from-purple-600 to-blue-600 text-white font-medium shadow-md shadow-purple-500/20 hover:shadow-lg hover:shadow-purple-500/40 dark:shadow-none dark:hover:shadow-[0_0_20px_rgba(168,85,247,0.4)] hover:-translate-y-1 transition-all duration-300"
+                className="inline-flex items-center gap-2 px-8 py-3 rounded-full bg-gradient-to-r from-purple-600 to-blue-600 text-white font-medium shadow-md shadow-purple-500/20 hover:shadow-lg hover:shadow-purple-500/40 dark:shadow-none dark:hover:shadow-[0_0_20px_rgba(168,85,247,0.4)] hover:-translate-y-1 transition-all duration-300"
               >
                 <Send size={18} /> Get In Touch
               </a>
