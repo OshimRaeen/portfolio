@@ -40,7 +40,7 @@ export const AboutSection = () => {
           className="text-center mb-16"
         >
           <h2 className="text-3xl md:text-5xl font-bold tracking-tight text-slate-900 dark:text-white transition-colors">
-            About <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-500 dark:from-purple-400 dark:to-blue-500 drop-shadow-sm dark:drop-shadow-[0_0_15px_rgba(168,85,247,0.5)]">Me</span>
+            About <span className="text-transparent bg-clip-text bg-linear-to-r from-purple-500 to-blue-500 dark:from-purple-400 dark:to-blue-500 drop-shadow-sm dark:drop-shadow-[0_0_15px_rgba(168,85,247,0.5)]">Me</span>
           </h2>
         </motion.div>
 
