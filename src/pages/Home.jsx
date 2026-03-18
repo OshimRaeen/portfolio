@@ -14,7 +14,7 @@ export const Home = () => {
       
       {/* Background Effects - Fixed at the very back */}
       <div className="fixed inset-0 z-0 pointer-events-none">
-        <StarBackground />
+        <StarBackground >
       </div>
 
       
